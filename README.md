@@ -1,0 +1,13 @@
+# 个人学习STM32的一些代码
+
+包括以下内设和外设的实验：
+
+- CLOCK
+- NVIC和EXTI
+- SYSTICK
+- USART
+- DMA
+- I2C和EEPROM
+- BASIC TIM和ADVANCED TIM
+- ADC
+- SPI和FLASH
